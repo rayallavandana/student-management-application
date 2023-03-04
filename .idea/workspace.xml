@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/assignment-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/assignment-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/Presentation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/ArrayListStudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/CreateStudentMenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/CreateStudentMenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/NoSuchStudentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/NoSuchStudentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/logic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/logic/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assign-2/src/Presentation/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assign-2/src/data/StudentDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assign-2/src/data/ArrayListStudentDao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2MSpvG7ODYkBPnUcsSVRZmBJ4cJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignment-2/src/data" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\src\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Presentation.Main" />
+      <module name="assignment-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="presentation.cli.Main" />
+      <module name="assignment-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ass" type="GroovyScriptRunConfiguration" factoryName="Groovy" activateToolWindowBeforeRun="false">
+      <module name="assignment-2" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <setting name="alternativeJrePathEnabled" value="true" />
+      <setting name="alternativeJrePath" value="openjdk-18" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="student-management-application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="student-management-application" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Groovy.ass" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="" />
+      <created>1677771074139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677771074139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

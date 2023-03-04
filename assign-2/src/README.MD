@@ -1,4 +1,4 @@
-#Student Management Application
+# Student Management Application
 ## Teaching Block-2
 
 **INTRODUCTION:**
@@ -16,6 +16,8 @@ The application uses a console interface to interact with the user. Once the app
 
 **Update Student:** Allows the user to update an existing student record in the system.
 
-**Delete Student:** Allows the user to delete a student record from the system.
-**CONCLUSION:**  
+**Delete Student:** Allows the user to delete a student record from the system.  
+
+**CONCLUSION:** 
+
 The Student Management Application is a simple yet effective way to manage student records. It allows users to perform basic CRUD operations and provides a straightforward interface for interaction.
