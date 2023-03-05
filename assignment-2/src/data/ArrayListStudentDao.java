@@ -2,12 +2,11 @@ package data;
 
 import data.StudentDao;
 import logic.Student;
-
 import java.util.ArrayList;
 import java.util.List;
 
 public class ArrayListStudentDao implements StudentDao {
-    private List<Student> students = new ArrayList<>();
+    private final List<Student> students = new ArrayList<>();
 
     @Override
     public void add(Student student) {
@@ -40,12 +39,13 @@ public class ArrayListStudentDao implements StudentDao {
             if (student.getId() == id) {
                 return student;
             }
-        }
-        return null;
+        } throw new NoSuchStudentException(id);
+
     }
 
     @Override
     public List<Student> getAll() {
-        return students;
+        List<Student> studentsCopy = new ArrayList<>(students);
+        return studentsCopy;
     }
 }

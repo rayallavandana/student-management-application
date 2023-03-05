@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/assignment-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/assignment-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/Presentation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/ArrayListStudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/CreateStudentMenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/CreateStudentMenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/NoSuchStudentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/NoSuchStudentException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/data/StudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/logic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/assign-2/src/logic/Student.java" afterDir="false" />
+    <list default="true" id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="Rectified mistakes">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/assignment-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/production/assignment-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/CreateStudentMenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/CreateStudentMenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/out/production/assignment-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-management-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/student-management-application.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +32,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/assign-2/src/Presentation/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/assign-2/src/data/StudentDao.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/assign-2/src/data/ArrayListStudentDao.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MSpvG7ODYkBPnUcsSVRZmBJ4cJ" />
   <component name="ProjectViewState">
@@ -46,24 +41,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assignment-2/src/data" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\src\Presentation" />
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\src\logic" />
       <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\src\data" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2" />
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\production" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main ">
+    <configuration name="Main " type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="16 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Presentation.Main" />
-      <module name="assignment-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment-2/src/Presentation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Presentation.*" />
@@ -74,11 +74,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Projects" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-18.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main.java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment-2/src/Presentation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="presentation.cli.Main" />
-      <module name="assignment-2" />
+      <option name="MAIN_CLASS_NAME" value="src.Presentation.Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,22 +112,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="student-management-application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="student-management-application" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Main " />
+      <item itemvalue="Application.src" />
+      <item itemvalue="Application.Projects" />
       <item itemvalue="Groovy.ass" />
     </list>
   </component>
@@ -137,5 +142,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rectified mistakes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rectified mistakes" />
   </component>
 </project>

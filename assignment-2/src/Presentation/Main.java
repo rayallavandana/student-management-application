@@ -7,13 +7,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {s
-    public static final String ADD_MENU_ITEM = "1";
-    public static final String UPDATE_MENU_ITEM = "2";
-    public static final String LIST_MENU_ITEM = "3";
-    public static final String DELETE_MENU_ITEM = "4";
-    public static final String EXIT_MENU_ITEM = "5";
-    public static final String NO_MENU_ITEM = "0";
+public class Main {
+    private static final String ADD_MENU_ITEM = "1";
+    private static final String UPDATE_MENU_ITEM = "2";
+    private static final String LIST_MENU_ITEM = "3";
+    private static final String DELETE_MENU_ITEM = "4";
+    private static final String EXIT_MENU_ITEM = "5";
+    private static final String NO_MENU_ITEM = "0";
 
     public static void main(String[] args) {
         String choice = NO_MENU_ITEM;
@@ -84,7 +84,6 @@ public class Main {s
         }
     }
 }
-
 
 
 
