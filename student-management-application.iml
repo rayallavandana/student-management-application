@@ -7,6 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/assignment-2/src/Presentation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/assignment-2/src/data" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/assignment-2/src/logic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assignment-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/src/Presentation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/src/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/src/logic" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

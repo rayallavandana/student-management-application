@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="Rectified mistakes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/assignment-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/production/assignment-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/out/production/assignment-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/assignment-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/CreateStudentMenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/CreateStudentMenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/MenuItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/CreateStudentMenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/CreateStudentMenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/out/production/assignment-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/NoSuchStudentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/NoSuchStudentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-2/src/logic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/logic/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student-management-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/student-management-application.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/muddal reddy/OneDrive/Documents/projects/Number Guessing Game",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\src\Presentation" />
@@ -54,15 +56,18 @@
       <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\src\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\src" />
       <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2" />
+      <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\production\assignment-2" />
       <recent name="C:\Users\muddal reddy\OneDrive\Documents\projects\student-management-application\assignment-2\production" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main ">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main " type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="16 (2)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Presentation.Main" />
+      <module name="student-management-application" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment-2/src/Presentation" />
       <extension name="coverage">
         <pattern>
@@ -70,6 +75,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="student-management-application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,6 +99,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="16" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="student-management-application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,12 +126,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.Main " />
-      <item itemvalue="Application.src" />
       <item itemvalue="Application.Projects" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.src" />
+      <item itemvalue="Application.Main2" />
       <item itemvalue="Groovy.ass" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -129,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677771074139</updated>
     </task>
+    <task id="LOCAL-00001" summary="Rectified mistakes">
+      <created>1677998804567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677998804567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +168,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rectified mistakes" />

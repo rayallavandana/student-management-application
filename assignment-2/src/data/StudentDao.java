@@ -1,7 +1,4 @@
-package data;
-
 import java.util.List;
-import logic.Student;
 
 public interface StudentDao {
     void add(Student student);

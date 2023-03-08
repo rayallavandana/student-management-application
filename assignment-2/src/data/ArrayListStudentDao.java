@@ -1,7 +1,3 @@
-package data;
-
-import data.StudentDao;
-import logic.Student;
 import java.util.ArrayList;
 import java.util.List;
 

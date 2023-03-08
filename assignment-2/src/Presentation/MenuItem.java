@@ -1,5 +1,3 @@
-package data;
-
 public abstract class MenuItem {
     private final String menuItemName;
 

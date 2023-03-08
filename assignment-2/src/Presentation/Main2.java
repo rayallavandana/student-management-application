@@ -1,13 +1,6 @@
-package Presentation;
-
-import data.StudentDao;
-import data.ArrayListStudentDao;
-import logic.Student;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class Main2 {
     private static final String ADD_MENU_ITEM = "1";
     private static final String UPDATE_MENU_ITEM = "2";
     private static final String LIST_MENU_ITEM = "3";
