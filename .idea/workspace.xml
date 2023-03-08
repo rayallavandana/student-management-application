@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="Rectified mistakes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="20c4bdcd-0e57-4bf7-a646-c9702b99cf05" name="Changes" comment="added .gitignore file">
+      <change afterPath="$PROJECT_DIR$/assignment-2/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/out/production/assignment-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/assignment-2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/CreateStudentMenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/CreateStudentMenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/Presentation/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/Presentation/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/ArrayListStudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/NoSuchStudentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/NoSuchStudentException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/data/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/data/StudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment-2/src/logic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment-2/src/logic/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-management-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/student-management-application.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677998804567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added .gitignore file">
+      <created>1678262382913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678262382913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Rectified mistakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rectified mistakes" />
+    <MESSAGE value="added .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore file" />
   </component>
 </project>
