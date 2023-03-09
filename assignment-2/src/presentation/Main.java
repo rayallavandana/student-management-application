@@ -38,22 +38,22 @@ public class Main {
                     System.out.println("Student ID:");
                     newStudent.setId(scanner.nextInt());
                     scanner.nextLine();
-                    System.out.printf("First name:");
+                    System.out.print("First name:");
                     newStudent.setFirstName(scanner.nextLine());
-                    System.out.printf("Last name:");
+                    System.out.print("Last name:");
                     newStudent.setLastName(scanner.nextLine());
                     studentDao.add(newStudent);
                     System.out.println("___________________________");
                 }
                 case UPDATE_MENU_ITEM -> {
-                    System.out.printf("Enter the student ID to update:");
+                    System.out.print("Enter the student ID to update:");
                     int idToUpdate = scanner.nextInt();
                     scanner.nextLine();
                     Student studentToUpdate = studentDao.getById(idToUpdate);
                     if (studentToUpdate != null) {
-                        System.out.printf("Enter the new first name:");
+                        System.out.print("Enter the new first name:");
                         studentToUpdate.setFirstName(scanner.nextLine());
-                        System.out.printf("Enter the new last name:");
+                        System.out.print("Enter the new last name:");
                         studentToUpdate.setLastName(scanner.nextLine());
                         studentDao.update(studentToUpdate);
                         System.out.println("___________________________");
@@ -72,7 +72,7 @@ public class Main {
                     }
                 }
                 case DELETE_MENU_ITEM -> {
-                    System.out.printf("Enter the student ID to delete:");
+                    System.out.print("Enter the student ID to delete:");
                     int idToDelete = scanner.nextInt();
                     scanner.nextLine();
                     studentDao.delete(idToDelete);
