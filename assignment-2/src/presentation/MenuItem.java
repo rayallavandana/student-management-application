@@ -1,3 +1,5 @@
+package presentation;
+
 public abstract class MenuItem {
     private final String menuItemName;
 

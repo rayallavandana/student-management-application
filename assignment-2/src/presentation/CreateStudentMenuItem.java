@@ -1,3 +1,8 @@
+package presentation;
+
+import data.StudentDao;
+import logic.Student;
+
 import java.util.Scanner;
 
 public class CreateStudentMenuItem extends MenuItem {

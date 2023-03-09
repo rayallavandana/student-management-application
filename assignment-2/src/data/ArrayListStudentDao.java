@@ -1,3 +1,7 @@
+package data;
+
+import logic.Student;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -41,7 +45,6 @@ public class ArrayListStudentDao implements StudentDao {
 
     @Override
     public List<Student> getAll() {
-        List<Student> studentsCopy = new ArrayList<>(students);
-        return studentsCopy;
+        return new ArrayList<>(students);
     }
 }

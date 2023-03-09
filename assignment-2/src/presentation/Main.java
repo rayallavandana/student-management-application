@@ -1,6 +1,12 @@
+package presentation;
+
+import data.ArrayListStudentDao;
+import data.StudentDao;
+import logic.Student;
+
 import java.util.Scanner;
 
-public class Main2 {
+public class Main {
     private static final String ADD_MENU_ITEM = "1";
     private static final String UPDATE_MENU_ITEM = "2";
     private static final String LIST_MENU_ITEM = "3";
@@ -22,14 +28,14 @@ public class Main2 {
             System.out.println("5. Exit");
             System.out.println("___________________________");
 
-            System.out.printf("Please enter your choice:");
+            System.out.print("Please enter your choice:");
             choice = scanner.nextLine();
             System.out.println();
 
             switch (choice) {
-                case ADD_MENU_ITEM:
+                case ADD_MENU_ITEM -> {
                     Student newStudent = new Student();
-                    System.out.printf("Student ID:");
+                    System.out.println("Student ID:");
                     newStudent.setId(scanner.nextInt());
                     scanner.nextLine();
                     System.out.printf("First name:");
@@ -38,8 +44,8 @@ public class Main2 {
                     newStudent.setLastName(scanner.nextLine());
                     studentDao.add(newStudent);
                     System.out.println("___________________________");
-                    break;
-                case UPDATE_MENU_ITEM:
+                }
+                case UPDATE_MENU_ITEM -> {
                     System.out.printf("Enter the student ID to update:");
                     int idToUpdate = scanner.nextInt();
                     scanner.nextLine();
@@ -55,8 +61,8 @@ public class Main2 {
                         System.out.println("Student not found with ID " + idToUpdate);
                         System.out.println("___________________________");
                     }
-                    break;
-                case LIST_MENU_ITEM:
+                }
+                case LIST_MENU_ITEM -> {
                     System.out.println("___________________________");
                     System.out.printf("%-5s%-15s%-15s%n", "id", "firstName", "lastName");
                     System.out.println("___________________________");
@@ -64,15 +70,15 @@ public class Main2 {
                         System.out.println(student);
                         System.out.println();
                     }
-                    break;
-                case DELETE_MENU_ITEM:
+                }
+                case DELETE_MENU_ITEM -> {
                     System.out.printf("Enter the student ID to delete:");
                     int idToDelete = scanner.nextInt();
                     scanner.nextLine();
                     studentDao.delete(idToDelete);
                     System.out.println();
                     System.out.println("___________________________");
-                    break;
+                }
             }
         }
     }
